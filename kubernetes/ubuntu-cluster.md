@@ -1,9 +1,11 @@
 # Installation guide
 
-## Configutate system
+## Configuration system
 
 ## Download kubernetes
 
-## Instalation staps
+## Installation steps
 
 ## Joining steps  
+
+## Remove steps
